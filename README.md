@@ -36,12 +36,6 @@ This project involves **Exploratory Data Analysis (EDA)** and **dashboard creati
 
 ---
 
-## 📷 Power BI Dashboard Preview
-
-(Dashboard.png)
-
----
-
 ## 👨‍💻 Created by
 **Saransh Umrao**  
 ---
